@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-android-recyclerview",
   "version": "1.0.2",
@@ -14,7 +13,7 @@
     "listview"
   ],
   "author": {
-    "name" : "Itangjie",
+    "name": "Itangjie",
     "email": "154165897@qq.com"
   },
   "license": "MIT",
@@ -23,6 +22,9 @@
     "url": "https://github.com/Itangjie/react-native-android-recyclerview.git"
   },
   "peerDependencies": {
-    "react-native": "^0.61.5"
+    "react-native": "^0.63.2"
+  },
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^4.0.0"
   }
 }

@@ -5,8 +5,8 @@ import ReactNative, {
   DeviceEventEmitter,
   StyleSheet,
   UIManager,
-  ViewPropTypes,
 } from 'react-native';
+import { ViewPropTypes } from "deprecated-react-native-prop-types"
 import PropTypes from 'prop-types';
 import DataSource from './DataSource';
 
